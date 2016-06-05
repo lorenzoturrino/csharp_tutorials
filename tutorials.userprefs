@@ -1,1 +1,28 @@
-﻿<Properties StartupItem="tutorials/tutorials.csproj" />
+﻿<Properties StartupItem="tutorials/tutorials.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tutorials/FirstClass.cs">
+    <Files>
+      <File FileName="tutorials/FirstClass.cs" Line="11" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tutorials>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="3params" Id="5ed259cf-fb24-4f71-9060-cd47396f6cc6" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="first duck dickbutts" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.tutorials>
+</Properties>
