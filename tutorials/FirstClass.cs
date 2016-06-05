@@ -11,7 +11,8 @@ namespace tutorials
 				System.Console.WriteLine ("Arg is " + arg);
 			}
 			Dude guy = new Dude ();
-			guy.printGreeting ();
+			guy.age = 10;
+			System.Console.WriteLine (guy.age);
 			return 0;
 		}
 	}
