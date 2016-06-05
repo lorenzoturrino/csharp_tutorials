@@ -2,16 +2,6 @@
 
 namespace tutorials
 {
-	public class Dude
-	{
-		private string greetings = "hello I'm dude";
-
-		public void printGreeting() 
-		{
-			System.Console.WriteLine (greetings);
-		}
-	}
-
 	public class FirstClass
 	{
 		static public int Main (string[] args)

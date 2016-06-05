@@ -32,5 +32,6 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Compile Include="FirstClass.cs" />
+    <Compile Include="Dude.cs" />
   </ItemGroup>
 </Project>
