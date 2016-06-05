@@ -1,0 +1,5 @@
+/home/robota/propro/csharp/tutorials/tutorials/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/robota/propro/csharp/tutorials/tutorials/bin/Debug/tutorials.exe.mdb
+/home/robota/propro/csharp/tutorials/tutorials/bin/Debug/tutorials.exe
+/home/robota/propro/csharp/tutorials/tutorials/obj/x86/Debug/tutorials.exe
+/home/robota/propro/csharp/tutorials/tutorials/obj/x86/Debug/tutorials.exe.mdb
