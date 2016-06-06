@@ -13,7 +13,12 @@ namespace tutorials
 			set { years = value; }
 		}
 
-		public void printGreeting() 
+        public override string ToString()
+        {
+            return $"{greetings}, and I am {years}y old";
+        }
+
+        public void printGreeting() 
 		{
 			System.Console.WriteLine (greetings);
 		}

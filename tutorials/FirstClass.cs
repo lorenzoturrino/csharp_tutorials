@@ -13,6 +13,7 @@ namespace tutorials
 			Dude guy = new Dude ();
 			guy.age = 10;
 			System.Console.WriteLine (guy.age);
+            System.Console.WriteLine(guy);
 			return 0;
 		}
 	}
